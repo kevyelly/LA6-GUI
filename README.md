@@ -1,2 +1,2 @@
 # LA6-GUI
-BebedorLa6 
+Tried submitting in CodeChum sir but only the first item would check out
